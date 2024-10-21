@@ -10,4 +10,7 @@ to run task X you need to do the following:
  - [ ]  subtask 3
 
 ## Details about Task Y
-This needs to 
+This needs to ## **bold** and *italized*
+
+
+<b> here is text </b>
